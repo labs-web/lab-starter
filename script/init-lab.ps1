@@ -1,11 +1,29 @@
-# Création de fichier .code-workspace de vs code
+# Script de création d'un lab-web
 
-# Add script to path 
+# Commande pour ajouter le script à votre path 
 # $env:path += ";E:\labs-web\lab-starter\script";
 
-# TODO : nommer le fichier code par le nom de dépôt
-new-item lab.code-workspace
-Set-Content code.code-workspace '{"folders": [{"path": "."}],"settings": {}}'
+# Paramètres 
+# $labr_reference=$args[0]
+param ($labr_reference='lab-web-1')
+
+# Confirmation
+$title    = "Création de lab $labr_reference "
+$question = "Are you sure you want to proceed?"
+$choices  = '&Yes', '&No'
+$decision = $Host.UI.PromptForChoice($title, $question, $choices, 1)
+if ($decision -eq 1) {
+    Write-Host 'cancelled'
+    exit
+} 
+
+
+Write-Host "Initialisation de lab : $labr_reference "
+
+# Création de fichier .code-workspace de vs code
+$work_space_file_name = "$labr_reference.code-workspace"
+new-item $work_space_file_name
+Set-Content $work_space_file_name '{"folders": [{"path": "."}],"settings": {}}'
 
 # init gitflow 
 git flow init
