@@ -1,8 +1,5 @@
 # Script de création d'un lab-web
 
-# Commande pour ajouter le script à votre path 
-# $env:path += ";E:\labs-web\lab-starter\script";
-
 # Paramètres 
 # $labr_reference=$args[0]
 param ($labr_reference='lab-web-1')
