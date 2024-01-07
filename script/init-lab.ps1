@@ -1,5 +1,12 @@
 # Script de création d'un lab-web
 
+## issue : édition de script avec des caractètre en français
+# à  éditer avec Encoding : Windows 1252
+
+# issue : Problème d'affichage des caractère en français sur la console
+$PSDefaultParameterValues['*:Encoding'] = 'utf8' à tester
+
+
 # Paramètres 
 # $labr_reference=$args[0]
 param ($labr_reference='lab-web-1')
