@@ -4,7 +4,7 @@
 # à  éditer avec Encoding : Windows 1252
 
 # issue : Problème d'affichage des caractère en français sur la console
-$PSDefaultParameterValues['*:Encoding'] = 'utf8' à tester
+$PSDefaultParameterValues['*:Encoding'] = 'utf8'
 
 
 # Paramètres 
