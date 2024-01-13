@@ -1,0 +1,8 @@
+# Configuration-windows
+
+## Travail à faire 
+
+- Configuration de windows pour un poste développeur
+  - Affichage des fichiers caché 
+  - Affichage des extensions des fichiers
+  - Lancement de Powershell dans le dossier ouvert
