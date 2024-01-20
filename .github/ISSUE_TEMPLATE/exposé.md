@@ -1,21 +1,13 @@
 ---
 name: Exposé
-about: Exposé sur un sujet
-title: ''
-labels: exposé
+about: Création d'un exposé
+title: 'Titre de l\'expoisé'
+labels: exposé,new_issue
 assignees: ''
 ---
 
-## Travail à faire 
+## Travail à faire
+
+##  Livrables
 
 
-## Livrable 
-
-- Présentation sur markdown 
-
-## Référence 
-
-
-## Critère de validation
-
-- Utilisation de la seul référence proposé par le formateur
