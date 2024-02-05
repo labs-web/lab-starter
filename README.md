@@ -7,3 +7,7 @@ C'est le premier lab de notre formation
 - Configuration-windows
 - Installation-vs-code
 - Installation-extension
+- backlog
+- init-rapport
+- init-présentation
+
