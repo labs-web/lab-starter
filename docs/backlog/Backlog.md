@@ -5,8 +5,6 @@ order: 2
 ---
 <!--  -->
 
-## Introduction
-
 ## Backlog
 ### Structure des dossiers
 
@@ -32,4 +30,3 @@ order: 2
   -  rapport.md
   -  présentation.html
 
-## Conclusion
