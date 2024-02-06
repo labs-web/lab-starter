@@ -5,10 +5,12 @@ order: 2
 ---
 <!--  -->
 
+## Introduction
+
 ## Backlog
 ### Structure des dossiers
 
-- DOCS
+- docs
   - Index.md
   - Introduction
     - images
@@ -20,3 +22,5 @@ order: 2
     - Backlog.md
   -  rapport.md
   -  présentation.html
+
+## Conclusion

@@ -11,7 +11,7 @@ order: 2
 ## livrable
 
 ### Rapport 
-[Rapport.html](http://127.0.0.1:4000/lab-starter/rapport.html)
+[Rapport.html](https://labs-web.github.io/lab-starter/)
 
 ### Présentation 
 [Présentation]()
