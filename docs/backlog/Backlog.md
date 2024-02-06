@@ -18,6 +18,15 @@ order: 2
   - Conclusion
     - Images
     - Conclusion.md
+  - Configuration-windows
+    - Compte-rendu.Configuration-windows
+    - images
+  - Installation-extension
+    - Compte-rendu.Installation-extension
+    - images
+  - Installation-vs-code
+    - Compte-rendu.Installation-vs-code
+    - images
   - Backlog
     - Backlog.md
   -  rapport.md
