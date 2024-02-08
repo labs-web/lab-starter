@@ -6,6 +6,7 @@ body {
 
 img {
   width: 100%;
+  text-align: center;
 }
 
 /* Figure */
@@ -20,19 +21,20 @@ img+p {
 
 h1 {
   font-size: 40px;
+  text-transform: capitalize;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.6em;
+  text-transform: capitalize;
 }
 
 h3 {
-  font-size: 1.17em;
+  font-size: 1.25em;
+  text-transform: capitalize;
 }
 
-/* code {
-  display: none;
-} */
+
 
 article[size="A4"] {
   display: block;
@@ -55,6 +57,8 @@ article[size="A4"] {
 
   img {
     width: 85%;
+    text-align: center !important;
+
   }
 
 

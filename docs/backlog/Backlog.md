@@ -1,11 +1,12 @@
 ---
 layout: default
 title: structure-des-dossciers.md
-order: 4
+order: 2
 ---
 <!--  -->
 
 ## Backlog
+<!-- note -->
 ### Structure des dossiers
 
 - docs
@@ -29,4 +30,4 @@ order: 4
     - Backlog.md
   -  rapport.md
   -  présentation.html
-
+<!-- new slide -->

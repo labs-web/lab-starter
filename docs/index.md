@@ -14,4 +14,4 @@ order: 2
 [Rapport.html](https://labs-web.github.io/lab-starter/rapport.html)
 
 ### Présentation 
-[Présentation]()
+[Présentation](https://labs-web.github.io/lab-starter/)
