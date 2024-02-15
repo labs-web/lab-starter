@@ -17,16 +17,16 @@ order: 2
     - Images
     - Conclusion.md
   - Configuration-windows
-    - Compte-rendu.Configuration-windows
+    - configuration-windows.md
     - images
   - Installation-extension
-    - Compte-rendu.Installation-extension
+    - installation-extension.md
     - images
   - Installation-vs-code
-    - Compte-rendu.Installation-vs-code
+    - installation-vs-code.md
     - images
   - Backlog
     - Backlog.md
   -  rapport.md
-  -  présentation.html
+  -  presentation.md
 
