@@ -1,12 +1,13 @@
 ---
 layout: default
-title: structure-des-dossciers.md
+chapitre: Backlog
 order: 2
 ---
 <!--  -->
 
-## Backlog
-### Structure des dossiers
+# Backlog
+
+## Structure des dossiers
 
 - docs
   - Index.md
@@ -27,6 +28,5 @@ order: 2
     - images
   - Backlog
     - Backlog.md
-  -  rapport.md
   -  presentation.md
 
