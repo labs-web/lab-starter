@@ -4,6 +4,13 @@ chapitre: table de matière
 order: 0
 ---
 
+# Lab starter
+
+![Lab starter](./images/starter.jpg){:width="500px" }
+*Lab starter*
+
+<!-- new slide -->
+
 # Table de matière
 - [Table de matière]()
 - [Introduction](#introduction)
