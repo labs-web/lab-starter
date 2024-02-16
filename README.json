@@ -36,6 +36,11 @@
                 "Titre":"Rapport",
                 "Lien":"https://labs-web.github.io/lab-starter/"
             }
+            ,
+            {
+                "Titre":"Presentation",
+                "Lien":"https://labs-web.github.io/lab-starter/presentation.html"
+            }
            
         ]
     } 
