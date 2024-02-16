@@ -18,15 +18,16 @@ order: 2
     - Images
     - Conclusion.md
   - Configuration-windows
-    - configuration-windows.md
+    - configuration-windows
     - images
   - Installation-extension
-    - installation-extension.md
+    - installation-extension
     - images
   - Installation-vs-code
-    - installation-vs-code.md
+    - installation-vs-code
     - images
   - Backlog
     - Backlog.md
+  -  rapport.md
   -  presentation.md
 
