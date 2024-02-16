@@ -1,12 +1,13 @@
 ---
 layout: default
-title: structure-des-dossciers.md
+chapitre: Backlog
 order: 2
 ---
 <!--  -->
 
-## Backlog
-### Structure des dossiers
+# Backlog
+
+## Structure des dossiers
 
 - docs
   - Index.md
@@ -17,16 +18,16 @@ order: 2
     - Images
     - Conclusion.md
   - Configuration-windows
-    - Compte-rendu.Configuration-windows
+    - configuration-windows
     - images
   - Installation-extension
-    - Compte-rendu.Installation-extension
+    - installation-extension
     - images
   - Installation-vs-code
-    - Compte-rendu.Installation-vs-code
+    - installation-vs-code
     - images
   - Backlog
     - Backlog.md
   -  rapport.md
-  -  présentation.html
+  -  presentation.md
 
