@@ -54,3 +54,5 @@ Pour configurer un poste Windows pour un développeur, vous pouvez suivre ces é
 - Maintenez la touche "Maj" enfoncée, faites un clic droit sur un espace vide du dossier.
 - Sélectionnez "Ouvrir une fenêtre PowerShell ici" dans le menu contextuel.
 - PowerShell sera lancé dans le dossier actuel.
+  
+<!-- new slide -->

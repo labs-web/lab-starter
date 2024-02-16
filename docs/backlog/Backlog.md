@@ -28,6 +28,5 @@ order: 2
     - images
   - Backlog
     - Backlog.md
-  -  rapport.md
   -  presentation.md
 
