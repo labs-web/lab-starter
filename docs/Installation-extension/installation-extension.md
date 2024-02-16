@@ -6,7 +6,7 @@ order: 3
 
 # Installation extension
 
-![json](./images/json-z.png){:width="500px" }
+![json](./images/json-z.png){:width="400px" }
 *Extension Json*
 
 <!-- note -->
@@ -15,7 +15,7 @@ Un outil informatique polyvalent, le Visual Studio Code de Microsoft, offre un s
 
 <!-- new slide -->
 
-# Références
+## Références
 
 - [Json](https://marketplace.visualstudio.com/items?itemName=ZainChen.json)
 - [Resources](https://github.com/microsoft/vscode-extension-samples)

@@ -9,6 +9,7 @@ order: 0
 - [Introduction](#introduction)
 - [Backlog](#backlog)
 - [Configuration de windows](#configuration-windows)
+- [Installation extension](#installation-extension)
 - [Conclusion](#conclusion)
   
 <!-- new slide -->
