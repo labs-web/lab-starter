@@ -6,6 +6,5 @@
   
 ## Livrable
 
-- docs/*
 - docs/Création-des-snippets/
   - Création-des-snippets.md
