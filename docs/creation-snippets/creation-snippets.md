@@ -42,8 +42,8 @@ Dans Visual Studio Code, vous pouvez créer un nouveau snippet en accédant à F
 
 ## Références
 
-- [Création de snippets](https://blog.stephane-robert.info/post/ansible-create-snippet-vscode/#:~:text=Pour%20cr%C3%A9er%20vos%20propres%20snippets,par%20exemple%20ansible%20ensuite%20valider.)
-- [Documentation](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+- https://blog.stephane-robert.info/post/ansible-create-snippet-vscode/
+- https://code.visualstudio.com/docs/editor/userdefinedsnippets
 
 <!-- new slide -->
 
