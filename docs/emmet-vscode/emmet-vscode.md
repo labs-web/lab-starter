@@ -57,8 +57,8 @@ Emmet propose une large gamme d'abréviations et de commandes pour vous aider à
 
 ## Références
 
-- [Emmet vs code](https://code.visualstudio.com/docs/editor/emmet)
-- [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+- https://code.visualstudio.com/docs/editor/emmet
+- https://docs.emmet.io/cheat-sheet/
 
 <!-- new slide -->
 

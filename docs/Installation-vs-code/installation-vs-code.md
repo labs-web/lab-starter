@@ -33,8 +33,8 @@ Tout ce dont vous avez besoin pour Markdown (raccourcis clavier, table des mati�
 
 ## Références
 
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [Documentation](https://markdown-all-in-one.github.io/docs/guide/#features)
+- https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+- https://markdown-all-in-one.github.io/docs/guide/#features
 
 <!-- new slide -->
 
@@ -56,7 +56,7 @@ Extension todo tree recherche rapidement (à l'aide de ripgrep) dans votre espac
 
 ## Références
 
-- [Todo tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- [Todo tree vscode](https://dev.to/equiman/vscode-extension-todo-tree-1n02)
+- https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+- https://dev.to/equiman/vscode-extension-todo-tree-1n02
 
 <!-- new slide -->
