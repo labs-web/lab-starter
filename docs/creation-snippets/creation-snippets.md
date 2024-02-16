@@ -38,6 +38,7 @@ Dans Visual Studio Code, vous pouvez créer un nouveau snippet en accédant à F
 
 ```
 
+<!-- new slide -->
 
 ## Références
 
