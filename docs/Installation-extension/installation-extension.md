@@ -20,3 +20,5 @@ Un outil informatique polyvalent, le Visual Studio Code de Microsoft, offre un s
 - [Json](https://marketplace.visualstudio.com/items?itemName=ZainChen.json)
 - [Resources](https://github.com/microsoft/vscode-extension-samples)
 
+<!-- new slide -->
+

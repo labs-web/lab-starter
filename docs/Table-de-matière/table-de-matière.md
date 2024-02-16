@@ -10,6 +10,7 @@ order: 0
 - [Backlog](#backlog)
 - [Configuration de windows](#configuration-windows)
 - [Installation extension](#installation-extension)
+- [Emmet vscode](#emmet-vscode)
 - [Conclusion](#conclusion)
   
 <!-- new slide -->

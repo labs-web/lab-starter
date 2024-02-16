@@ -18,13 +18,19 @@ order: 2
     - Images
     - Conclusion.md
   - Configuration-windows
-    - configuration-windows
+    - configuration-windows.md
     - images
   - Installation-extension
-    - installation-extension
+    - installation-extension.md
+    - images
+  - emmet-vscode
+    - emmet-vscode.md
     - images
   - Installation-vs-code
-    - installation-vs-code
+    - installation-vs-code.md
+    - images
+  - Creation-snippets
+    - creation-snippets.md
     - images
   - Backlog
     - Backlog.md
